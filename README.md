@@ -29,4 +29,6 @@ Data များကို [MyanmarMonths.json](https://github.com/sannlynnhtun-
 
 ![Alt text](https://github.com/sannlynnhtun-coding/Myanmar-Months/blob/main/MyanmarMonthsFlow1.PNG)
 
+![Alt text](https://github.com/sannlynnhtun-coding/Myanmar-Months/blob/main/MyanmarMonthsFlow2.PNG)
+
 ![Alt text](https://github.com/sannlynnhtun-coding/Myanmar-Months/blob/main/MyanmarMonthsMindMap.PNG)
