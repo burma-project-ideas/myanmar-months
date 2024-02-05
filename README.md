@@ -29,6 +29,7 @@ Data များကို [MyanmarMonths.json](https://github.com/sannlynnhtun-
 
 ### Participants
 1. [Peter (React)](https://github.com/peterlianpi/myanmarmonths)
+2. [Phyo Wunna Kyaw (React)](https://github.com/Phyowunnakyaw/Myanmar-Months)
 
 ![Alt text](https://github.com/sannlynnhtun-coding/Myanmar-Months/blob/main/MyanmarMonthsFlow1.PNG)
 
